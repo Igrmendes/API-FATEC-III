@@ -4,6 +4,12 @@
 
 Avaliação da cadeia produtiva de alimentos e bebidas dos municípios da RMVALE.
 
+📑 Status do projeto: Em Desenvolvimento ✔️
+
+1ª sprint apresentada do dia 14/09.
+
+Nessa spirnt apresentamos dados sobre a nossa cadeia produtiva e nela vimos que cidade como Caçapava e Jacareí se destacam em exportações, ja em importações quem se destaca São José dos Campos e Taubaté.
+
 🛠️ Ferramentas e Tecnologias
 
 GitHub
