@@ -1,9 +1,11 @@
 # API-FATEC---Alimentos-e-bebidas-
+
 🔎 Sobre o projeto:
 
 Avaliação das cadeias produtivas de alimentos e bebidas dos municípios da RMVALE.
 
 🛠️ Ferramentas e Tecnologias
+
 GitHub
 
 Conceito de Posicionamento Lógico: R.H. BALLOU
