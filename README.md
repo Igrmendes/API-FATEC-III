@@ -2,7 +2,7 @@
 
 🔎 Sobre o projeto:
 
-Avaliação das cadeias produtivas de alimentos e bebidas dos municípios da RMVALE.
+Avaliação da cadeia produtiva de alimentos e bebidas dos municípios da RMVALE.
 
 🛠️ Ferramentas e Tecnologias
 
