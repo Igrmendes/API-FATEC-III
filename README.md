@@ -1,5 +1,24 @@
 # API-FATEC---Alimentos-e-bebidas-
 
+👥 Equipe:
+Scrum Master: Isabella Santos
+
+P.O.: Igor Mendes
+
+Scrum Team:
+
+-Cauã Francesco
+
+-Cristiene Caroline
+
+-Maria Eduarda
+
+-Mariana de Cassia
+
+-Matheus de Souza
+
+-Thales de Padua 
+
 🔎 Sobre o projeto:
 
 Avaliação da cadeia produtiva de alimentos e bebidas dos municípios da RMVALE.
@@ -20,21 +39,3 @@ Conceito de Posicionamento Lógico: R.H. BALLOU
 
 Microsoft Power Platform
 
-👥 Equipe:
-Scrum Master: Isabella Santos
-
-P.O.: Igor Mendes
-
-Scrum Team:
-
--Cauã Francesco
-
--Cristiene Caroline
-
--Maria Eduarda
-
--Mariana de Cassia
-
--Matheus de Souza
-
--Thales de Padua 
