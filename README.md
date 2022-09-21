@@ -40,3 +40,7 @@ Conceito de Posicionamento Lógico: R.H. BALLOU
 
 Microsoft Power Platform
 
+https://apps.powerapps.com/play/e/default-cf72e2bd-7a2b-4783-bdeb-39d57b07f76f/a/085cd055-712d-4e06-b27d-b6932e5e230b?tenantId=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&source=portal
+
+https://apps.powerapps.com/play/e/default-cf72e2bd-7a2b-4783-bdeb-39d57b07f76f/a/96fc040d-16c7-4f58-a928-14786eef7c58?tenantId=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&source=portal
+
