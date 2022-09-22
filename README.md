@@ -1,6 +1,6 @@
 # API-FATEC---Alimentos-e-bebidas-
 
-👥 Equipe:
+👥 Scrum team:
 
 Scrum Master: Isabella Santos
 
@@ -33,6 +33,8 @@ Nessa spirnt apresentamos dados sobre a nossa cadeia produtiva e nela vimos que 
 🛠️ Ferramentas e Tecnologias
 
 GitHub
+
+Comexstat
 
 Conceito de Posicionamento Lógico: R.H. BALLOU
 
