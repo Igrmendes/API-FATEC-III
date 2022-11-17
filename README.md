@@ -42,6 +42,8 @@ Conceito de Posicionamento Lógico: R.H. BALLOU
 
 Microsoft Power Platform
 
+PowerBi
+
 https://apps.powerapps.com/play/e/default-cf72e2bd-7a2b-4783-bdeb-39d57b07f76f/a/fca36482-bdb3-4ed4-aa06-65ac972a7c4a?tenantId=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&source=portal
 
 Planilhas Excel 
@@ -59,5 +61,25 @@ Mapa interativo da cadeia produtiva
 Selecinar os princioais países de destino para exportações.
 
 Selecionar os principais países de origem das importações.
+
+3ª Sprint
+
+Dashboard https://app.powerbi.com/groups/me/reports/d8c2fba8-1581-4fd0-81b5-76d9effd7469/ReportSection21ff1a6f130850b70794
+
+Mapeamento das vias 
+
+
+Cronograma utilizado pelo grupo:
+
+Cauã: Coleta de dados do Comex Stat
+Igor: Dash Exportação + App + Comunicação com o Cliente
+Isabella: Delegou funçoes + Dash Importação
+Maria: Coleta de dados do Comex Stat
+Mariana: Mapeamento das vias no BI
+
+
+
+
+
 
 
