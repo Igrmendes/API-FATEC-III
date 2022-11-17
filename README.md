@@ -3,12 +3,15 @@
 👥 Scrum team:
 
 Scrum Master: Isabella Santos
+*Responsável por: Delegar as tarefas para cada integrante, trabalhar juntamente com a equipe para chegar ao resultado final. Ao final de cada sprint, o mesmo é responsavel para avaliar cada integrante.
 
 P.O.: Igor Mendes
+*Resposável por: Fazer follow constante com o cliente, para tirar informações concretas e relevantes para que o resultado final seja o esperado pelo cliente. Para isso, o P.O usa de sua criatidade, juntamente com a equipe para desenvvolver perguntas, que serão enviadas por meio de e-mails formalizados.  
 
 Scrum Team:
 
 -Cauã Francesco
+*Responsavel por: Colocar as ideias que estão no papel, em prática.
 
 -Cristiene Caroline
 
