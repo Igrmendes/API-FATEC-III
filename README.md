@@ -19,7 +19,9 @@
 
 -Matheus de Souza
 
--Thales de Padua 
+- Thales de Padua
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🛠️ Ferramentas e Tecnologias utilizadas:
 
@@ -49,14 +51,17 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/igor_santos90_fatec_sp_gov_b
 Avaliação da cadeia produtiva de alimentos e bebidas de municípios específicos da RMVALE - Caçapava, Taubaté, Guaratinguetá, São José dos Campos, Ilhabela, São Sebastião e e Jacareí.
 
 📑 Status do projeto: Em Desenvolvimento ✔️
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🍏 1ª sprint - Apresentada no dia 14/09/2022.
 
 Nessa spirnt, apresentamos uma introdução da Cadeia Produtiva de Alimentos e Bebidas. Houve uma análise das cidades da RMVale escolhidas pelo cliente e cada um dos produtos de destaque de cada cidade. 
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🗺️ 2ª Sprint - Apresentada no dia 19/10.
 
 Nesta sprint, apresentamos um mapeamento dos principais países origens das importações da RMVale, e, também, dos principais países destinos das exportações dessa mesma região. Foram necessárias inserir o detalhamento dos volumes importados e exportados, nesse caso, valores em quilogramas líquidos. 
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🌎 3ª Sprint - Apresentada no dia 16/11.
 
@@ -71,14 +76,16 @@ Igor: Dash Exportação + App + Comunicação com o Cliente
 Isabella: Delegou funçoes + Dash Importação
 Maria: Coleta de dados do Comex Stat
 Mariana: Mapeamento das vias no BI
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🏁 4° Sprint - Apresentada no dia 30/11.
 
 Esta sprint foi a apresentação integrada de todas as outras sprints, relacionando tudo que foi apresentado. 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-️
+
 Link Dashboard: https://app.powerbi.com/groups/me/reports/82cb9d9b-bed7-4da5-90a0-9e467684ac02/ReportSection7821325787b10214ecd9
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+️
 
 
 
