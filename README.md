@@ -1,17 +1,15 @@
 # API-FATEC---Alimentos-e-bebidas-
 
-👥 Scrum team:
 
-Scrum Master: Isabella Santos
+👩🏻‍💼 Scrum Master: Isabella Santos
 *Responsável por: Delegar as tarefas para cada integrante, trabalhar juntamente com a equipe para chegar ao resultado final. Ao final de cada sprint, o mesmo é responsavel para avaliar cada integrante.
 
-P.O.: Igor Mendes
+👨‍💼 P.O.: Igor Mendes
 *Resposável por: Fazer follow constante com o cliente, para tirar informações concretas e relevantes para que o resultado final seja o esperado pelo cliente. Para isso, o P.O usa de sua criatidade, juntamente com a equipe para desenvvolver perguntas, que serão enviadas por meio de e-mails formalizados.  
 
-Scrum Team:
+👥 Scrum Team:
 
 -Cauã Francesco
-*Responsavel por: Colocar as ideias que estão no papel, em prática.
 
 -Cristiene Caroline
 
@@ -22,18 +20,8 @@ Scrum Team:
 -Matheus de Souza
 
 -Thales de Padua 
-
-🔎 Sobre o projeto:
-
-Avaliação da cadeia produtiva de alimentos e bebidas dos municípios da RMVALE.
-
-📑 Status do projeto: Em Desenvolvimento ✔️
-
-1ª sprint apresentada do dia 14/09.
-
-Nessa spirnt apresentamos dados sobre a nossa cadeia produtiva e nela vimos que cidade como Caçapava e Jacareí se destacam em exportações, ja em importações quem se destaca São José dos Campos e Taubaté.
-
-🛠️ Ferramentas e Tecnologias
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🛠️ Ferramentas e Tecnologias utilizadas:
 
 GitHub
 
@@ -45,25 +33,36 @@ Conceito de Posicionamento Lógico: R.H. BALLOU
 
 Microsoft Power Platform
 
-PowerBi/Power Apps
+PowerBi
 
-https://apps.powerapps.com/play/e/default-cf72e2bd-7a2b-4783-bdeb-39d57b07f76f/a/28af55e7-9f57-4411-9dfd-8ecd093aafa6?tenantId=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&source=portal
+https://apps.powerapps.com/play/e/default-cf72e2bd-7a2b-4783-bdeb-39d57b07f76f/a/fca36482-bdb3-4ed4-aa06-65ac972a7c4a?tenantId=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&source=portal
 
+📈 Planilhas do Excel utilizadas no desenvolvimento do projeto:
 
-Apresentar uma base de dados no PowerBi
+https://fatecspgov-my.sharepoint.com/:x:/r/personal/igor_santos90_fatec_sp_gov_br/Documents/Exporta%C3%A7%C3%A3o.xlsx?d=w3bc70d84044e49cf8b464ebc44dc4666&csf=1&web=1
 
-Mapa interativo da cadeia produtiva
+https://fatecspgov-my.sharepoint.com/:x:/r/personal/igor_santos90_fatec_sp_gov_br/Documents/IMP_2022_2022_20220916.xlsx?d=w61e2950c467a40429a5818b8ee47654f&csf=1&web=1
 
-Selecinar os princioais países de destino para exportações.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🔎 Sobre o projeto:
 
-Selecionar os principais países de origem das importações.
+Avaliação da cadeia produtiva de alimentos e bebidas de municípios específicos da RMVALE - Caçapava, Taubaté, Guaratinguetá, São José dos Campos, Ilhabela, São Sebastião e e Jacareí.
 
-3ª Sprint
+📑 Status do projeto: Em Desenvolvimento ✔️
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🍏 1ª sprint - Apresentada no dia 14/09/2022.
+
+Nessa spirnt, apresentamos uma introdução da Cadeia Produtiva de Alimentos e Bebidas. Houve uma análise das cidades da RMVale escolhidas pelo cliente e cada um dos produtos de destaque de cada cidade. 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🗺️ 2ª Sprint - Apresentada no dia 19/10.
+
+Nesta sprint, apresentamos um mapeamento dos principais países origens das importações da RMVale, e, também, dos principais países destinos das exportações dessa mesma região. Foram necessárias inserir o detalhamento dos volumes importados e exportados, nesse caso, valores em quilogramas líquidos. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🌎 3ª Sprint - Apresentada no dia 16/11.
+
+Nesta sprint, foi apresentado o mapeamento das vias utilizadas para exportação e importação.
 
 Dashboard https://app.powerbi.com/groups/me/reports/d8c2fba8-1581-4fd0-81b5-76d9effd7469/ReportSection21ff1a6f130850b70794
-
-Mapeamento das vias 
-
 
 Cronograma utilizado pelo grupo:
 
@@ -72,7 +71,12 @@ Igor: Dash Exportação + App + Comunicação com o Cliente
 Isabella: Delegou funçoes + Dash Importação
 Maria: Coleta de dados do Comex Stat
 Mariana: Mapeamento das vias no BI
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🏁 4° Sprint - Apresentada no dia 30/11.
 
+Esta sprint foi a apresentação integrada de todas as outras sprints, relacionando tudo que foi apresentado. 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+️
 
 
 
