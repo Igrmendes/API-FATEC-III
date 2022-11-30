@@ -1,4 +1,4 @@
-# API-FATEC---Alimentos-e-bebidas-
+# API: Cadeia Produtiva Alimentos e Bebidas
 
 
 👩🏻‍💼 Scrum Master: Isabella Santos
