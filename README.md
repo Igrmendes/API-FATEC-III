@@ -55,7 +55,7 @@ Avaliação da cadeia produtiva de alimentos e bebidas de municípios específic
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🍏 1ª sprint - Apresentada no dia 14/09/2022.
 
-Nessa spirnt, apresentamos uma introdução da Cadeia Produtiva de Alimentos e Bebidas. Houve uma análise das cidades da RMVale escolhidas pelo cliente e cada um dos produtos de destaque de cada cidade. 
+Nessa sprint, apresentamos uma introdução da Cadeia Produtiva de Alimentos e Bebidas. Houve uma análise das cidades da RMVale escolhidas pelo cliente e cada um dos produtos de destaque de cada cidade.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🗺️ 2ª Sprint - Apresentada no dia 19/10.
