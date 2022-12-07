@@ -90,7 +90,7 @@ Esta sprint foi a apresentação integrada de todas as outras sprints, relaciona
 Link Dashboard: https://app.powerbi.com/groups/me/reports/82cb9d9b-bed7-4da5-90a0-9e467684ac02/ReportSection7821325787b10214ecd9
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-️Finalização do Projeto Integrador - !° Semestre de Logística
+️Finalização do Projeto Integrador - 1° Semestre de Logística
 
 - O fechamento do Projeto Integrador será ná Feira de Soluções da Fatec, que ocorrerá em 07/12/2022.
 
