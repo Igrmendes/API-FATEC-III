@@ -9,15 +9,15 @@
 
 👥 Scrum Team:
 
--Cauã Francesco
+- Cauã Francesco
 
--Cristiene Caroline
+- Cristiene Caroline
 
--Maria Eduarda
+- Maria Eduarda
 
--Mariana de Cassia
+- Mariana de Cassia
 
--Matheus de Souza
+- Matheus de Souza
 
 - Thales de Padua
 
