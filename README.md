@@ -92,6 +92,7 @@ Link Dashboard: https://app.powerbi.com/groups/me/reports/82cb9d9b-bed7-4da5-90a
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ️Finalização do Projeto Integrador - 1° Semestre de Logística
 
+- Relatório do Projeto Integrador: https://fatecspgov-my.sharepoint.com/:b:/g/personal/igor_santos90_fatec_sp_gov_br/ES8vP4UV76VKltPhW5nRiTABsaRBAW_QDMDCuUmj2RVwmg?e=LFOraE
 - O fechamento do Projeto Integrador será ná Feira de Soluções da Fatec, que ocorrerá em 07/12/2022.
 
 
