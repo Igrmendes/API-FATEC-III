@@ -25,32 +25,30 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🛠️ Ferramentas e Tecnologias utilizadas:
 
-GitHub
+- GitHub
 
-Comexstat
+- Comexstat
 
-Conceito de Posicionamento Lógico: R.H. BALLOU
+- Conceito de Posicionamento Lógico: R.H. BALLOU
 
-5W2H
+- 5W2H
 
-Microsoft Power Platform
+- Microsoft Power Platform: PowerBI, PowerApps, PowerAutomates. 
 
-PowerBi
-
-https://apps.powerapps.com/play/e/default-cf72e2bd-7a2b-4783-bdeb-39d57b07f76f/a/fca36482-bdb3-4ed4-aa06-65ac972a7c4a?tenantId=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&source=portal
+- Link Power Apps: https://apps.powerapps.com/play/e/default-cf72e2bd-7a2b-4783-bdeb-39d57b07f76f/a/fca36482-bdb3-4ed4-aa06-65ac972a7c4a?tenantId=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&source=portal
 
 📈 Planilhas do Excel utilizadas no desenvolvimento do projeto:
 
-https://fatecspgov-my.sharepoint.com/:x:/r/personal/igor_santos90_fatec_sp_gov_br/Documents/Exporta%C3%A7%C3%A3o.xlsx?d=w3bc70d84044e49cf8b464ebc44dc4666&csf=1&web=1
+- https://fatecspgov-my.sharepoint.com/:x:/r/personal/igor_santos90_fatec_sp_gov_br/Documents/Exporta%C3%A7%C3%A3o.xlsx?d=w3bc70d84044e49cf8b464ebc44dc4666&csf=1&web=1
 
-https://fatecspgov-my.sharepoint.com/:x:/r/personal/igor_santos90_fatec_sp_gov_br/Documents/IMP_2022_2022_20220916.xlsx?d=w61e2950c467a40429a5818b8ee47654f&csf=1&web=1
+- https://fatecspgov-my.sharepoint.com/:x:/r/personal/igor_santos90_fatec_sp_gov_br/Documents/IMP_2022_2022_20220916.xlsx?d=w61e2950c467a40429a5818b8ee47654f&csf=1&web=1
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🔎 Sobre o projeto:
 
 Avaliação da cadeia produtiva de alimentos e bebidas de municípios específicos da RMVALE - Caçapava, Taubaté, Guaratinguetá, São José dos Campos, Ilhabela, São Sebastião e e Jacareí.
 
-📑 Status do projeto: Em Desenvolvimento ✔️
+📑 Status do projeto: Concluído ✔️
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🍏 1ª sprint - Apresentada no dia 14/09/2022.
