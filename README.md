@@ -40,8 +40,8 @@ Futuramente
 
 
 # Equipe
-![Equipe](<img width="293" alt="image" src="https://github.com/Igrmendes/API-FATEC-III/assets/113563935/d76ae0c4-05c0-4001-a2ef-41b9edcbf801">
-)
+"https://github.com/Igrmendes/API-FATEC-III/assets/113563935/d76ae0c4-05c0-4001-a2ef-41b9edcbf801">
+
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
