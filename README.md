@@ -40,7 +40,8 @@ Futuramente
 
 
 # Equipe
-file:///C:/Users/Fatec/Downloads/SCRUM%20TEAM.png
+![SCRUM TEAM](https://github.com/Igrmendes/API-FATEC-III/assets/113563935/016d2fde-e8c5-4ab1-bb64-1a220f80f116)
+
 
 
 
