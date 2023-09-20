@@ -45,7 +45,6 @@ file:///C:/Users/Fatec/Downloads/SCRUM%20TEAM.png
 
 
 
-
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
 * Centralizar os trabalhos e projetos;
@@ -195,9 +194,9 @@ User stories
 # Autores
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |  Pedro Henrique         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/joaomarcosoliveiraa](https://www.linkedin.com/in/antiochus/))         |
+| Product Owner |  Pedro Henrique         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/antiochus/))         |
 | Scrum Master  |Igor Mendes |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/igor-mendes-5a1797178/)  |
-| Team Member   | Alendre Escobar              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alendre-escobar-93ab00238/) [ |
+| Team Member   | Alendre Escobar              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alendre-escobar-93ab00238/)  |
 |  Team Member  |   Ana Elisa Costa             |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-elisa-costa-a9a32122/)        |
 |  Team Member  | Felipe Nascimento              |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-souza-a101ab184/)
 |  Team Member  | Yuri Gonçalves      |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/gioliveirass](https://www.linkedin.com/in/yuri-gon%C3%A7alves-aleixo-b645b2226/)) 
