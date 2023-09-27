@@ -90,11 +90,6 @@ Requisitos não funcionais
 - Metodologias ágil
 - Power BI / Jira / Canvas
   
-User stories
-
-# Burndown
-![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
-
 
 ## Sprint 1. Concepção
 - [x] Defina o propósito do template;
