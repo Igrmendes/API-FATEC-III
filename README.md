@@ -57,6 +57,9 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 <img width="296" alt="Captura de tela 2023-09-26 213058" src="https://github.com/Igrmendes/API-FATEC-III/assets/113563935/1ea10df3-17ed-456f-b8c2-d42a45d0d439">
 
+
+
+
   
 
 # Cronograma das Sprints
