@@ -9,10 +9,8 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Micro Certificações](#badges)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [uncionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
 * [Backlog do produto](#Backlog-do-produto)
-* [Burndown](#Burndown)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
@@ -90,7 +88,6 @@ Requisitos não funcionais
 - Metodologias ágil
 - Power BI / Jira / Canvas
   
-
 ## Sprint 1. Concepção
 - [x] Defina o propósito do template;
 - [x] Identifique os elementos principais;
