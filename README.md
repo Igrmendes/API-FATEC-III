@@ -57,7 +57,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 ## Tecnologias Utilizadas
 
-file:///C:/Users/Fatec/Documents/Captura%20de%20tela%202023-09-26%20213058.png
+<img width="296" alt="Captura de tela 2023-09-26 213058" src="https://github.com/Igrmendes/API-FATEC-III/assets/113563935/1ea10df3-17ed-456f-b8c2-d42a45d0d439">
+
   
 
  ### Tecnológias Específicas/Apoio
