@@ -47,8 +47,6 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 
 
-  
-
 # Cronograma das Sprints
 
 
