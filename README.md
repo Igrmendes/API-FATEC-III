@@ -29,19 +29,6 @@ Sprint | Previsão | Status| Histórico|
 |Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 
-# Micro Certificações
-Futuramente
-
-<p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
-
-
-# Equipe
-![SCRUM TEAM](https://github.com/Igrmendes/API-FATEC-III/assets/113563935/016d2fde-e8c5-4ab1-bb64-1a220f80f116)
-
-
-
 
 
 # Objetivo do Projeto
@@ -163,6 +150,9 @@ Requisitos não funcionais
 </details>
 
 # EQUIPE
+
+![SCRUM TEAM](https://github.com/Igrmendes/API-FATEC-III/assets/113563935/016d2fde-e8c5-4ab1-bb64-1a220f80f116)
+
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |  Pedro Henrique         |     ![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=whitehttps://www.linkedin.com/in/antiochus/)     |
