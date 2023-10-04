@@ -155,8 +155,6 @@ Requisitos não funcionais
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 
-
-
 | Proprietário do Produto |     Pedro Henrique      |      [ ![ Selo do Linkedin ] ( https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white )] ( [https://www.linkedin.com/in/thiago-pereira -594683174](https://www.linkedin.com/in/antiochus) )              |
 | Scrum Master   | Igor Mendes |       [ ![ Emblema do Linkedin ] ( https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white )] ( https://www.linkedin.com/in/igor-mendes-5a1797178/ )        |
 |   Membro da equipe   | Alendre Escobar   |          [ ![ Selo do Linkedin ] ( https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white )] ( [https://www.linkedin.com/in/gabriella-fernanda -5473881a2](https://www.linkedin.com/in/alendre-escobar-93ab00238 )          |
