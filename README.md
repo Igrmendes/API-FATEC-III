@@ -1,3 +1,9 @@
+<p>
+ <img src=(https://i.imgur.com/nSc7xD5.png)/>
+</p>
+
+
+
 # Aprendizado por Projeto Integrado (API) 
 
 
@@ -151,13 +157,16 @@ Requisitos não funcionais
 
 ![SCRUM TEAM](https://github.com/Igrmendes/API-FATEC-III/assets/113563935/016d2fde-e8c5-4ab1-bb64-1a220f80f116)
 
-|    Função     | Nome                                  |                                                                                                                                                      LinkedIn                                                                                                                                                      |
+
+
+|    Função     | Nome                                  |                                                                                                                                                      LinkedIn                                                                                                                                                       |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Product Owner |    Pedro Henrique |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antiochus/?originalSubdomain=br)         |
+| Scrum Master  | Igor Mendes |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/igor-mendes-5a1797178/)    |
+| Team Member   | Alendre Escobar            |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alendre-escobar-93ab00238)     |
+|  Team Member  | Ana Elisa                |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-elisa-costa-a9a32122/)     |
+|  Team Member  |     Felipe Nascimento              |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-souza-a101ab184/)  |
+|  Team Member  | Yuri Gonçalves      |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-gon%C3%A7alves-aleixo-b645b2226/)        |
 
 
-| Proprietário do Produto |     Pedro Henrique      |      [ ![ Selo do Linkedin ] ( https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white )] ( [https://www.linkedin.com/in/thiago-pereira -594683174](https://www.linkedin.com/in/antiochus) )              |
-| Scrum Master   | Igor Mendes |       [ ![ Emblema do Linkedin ] ( https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white )] ( https://www.linkedin.com/in/igor-mendes-5a1797178/ )        |
-|   Membro da equipe   | Alendre Escobar   |          [ ![ Selo do Linkedin ] ( https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white )] ( [https://www.linkedin.com/in/gabriella-fernanda -5473881a2](https://www.linkedin.com/in/alendre-escobar-93ab00238 )          |
-|   Membro da equipe   |  Ana Elisa Costa     |    [ ![ Emblema Linkedin ] ( https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white )] ( https://www.linkedin.com/in/ana-elisa-costa-a9a32122 )         |
-|   Membro da equipe   |  Felipe Nascimento      |            [ ![ Emblema Linkedin ] ( https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white )] ( https://www.linkedin.com/in/felipe-souza-a101ab184 )  [ ![ GitHub Badge ] ( https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white )] ( https://github.com/marioliveira2205 )    |
-|   Membro da equipe   | Yuri Gonçalves     |            [ ![ Emblema Linkedin ] ( https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white )] ( https://www.linkedin.com/in/yuri-gon%C3%A7alves-aleixo-b645b2226 )   |
+
