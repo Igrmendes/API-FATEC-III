@@ -1,29 +1,33 @@
-<p>
- <img src=(https://i.imgur.com/nSc7xD5.png)/>
-</p>
+# Avaliação dos Custos Logísticos de Distribuição em Rotas
+
+API 3° Semestre - Logística Noturno
+
+## O Projeto
+
+Este projeto de roteirização consiste em, com base nos dados oferecido pelo cliente, otimizar as rotas de entregas entre as fábricas e os clientes. A proposta de nossa analise é fornecer ao cliente uma soluções logísticas para otimização das rotas e redução do custos, através de uma base de dados fornecida pelo cliente.
+
+O objetivo geral foi o desenvolvimento de uma interface gráfica que permita ao cliente uma consulta das informações tratadas pela sua base de dados, o produto foi pensado e desenvolvido para ser de fácil interatividade, ágil e com gráficos visuais pertinentes para analisar os indicadores logísticos, oferecemos também ao cliente uma sugestão de um cenário onde os parâmetros logísticos possam ser melhorados por meio da inclusão de um centro de distribuição e avaliamos a eficiência das rotas de venda de ambos cenários, sendo o pirmeiro o real com a base de dados oferecida e o segundo o sugerido com a nova base de dados modelada com o centro de distribuição fazendo parte das rotas.  
+
+<p align="right">(<a href="#top">voltar ao topo</a>)</p>
+
+
+## Conexconsult
+
+<div id="top"></div>
+<p align="center">
+      <img src="https://i.imgur.com/nSc7xD5.png" width="100%" height="100%">
+<p align="center">
 
 
 
-# Aprendizado por Projeto Integrado (API) 
 
+  
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+## Solução
 
-# Índice
+A equipe da Conexconsult além de desenvolver uma interface gráfica que permita o cliente consultar, filtrar e agrupar as informações tratadas da base de rotas oferecida, entregará o produto com análises logísticas pertinentes ao projeto.
 
-* [Projeto](#projeto-template)
-* [Micro Certificações](#badges)
-* [Equipe](#equipe)
-* [Objetivo do Projeto](#objetivo-do-projeto)
-* [Cronograma das Sprints](#Cronograma-das-Sprints)
-* [Backlog do produto](#Backlog-do-produto)
-* [Competências desenvolvidas](#competências-desenvolvidas)
-* [Autores](#autores)
-
-# Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
+<p align="right">(<a href="#top">voltar ao topo</a>)</p>
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
@@ -35,15 +39,15 @@ Sprint | Previsão | Status| Histórico|
 |Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 
+## Objetivo
 
+A demanda do cliente consiste em entender e avaliar da melhor forma possível a distribuição e os custos das rotas dentro de uma base de dados com uma origem e um destino de entrega de produtos.
 
-# Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Assim, tem-se por objetivo específico:
+
+<p>• Desenvolver uma interface gráfica que permita o cliente consultar, filtrar e agrupar as informações tratadas da base de dados do governo
+<p>• Avaliar os parâmetros logísticos planejados pela empresa e confrontar com os parâmetros reais obtidos pela base de dados.
+
 
 
 ## Tecnologias Utilizadas
@@ -59,66 +63,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 #### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
 
 # Backlog do produto
-  
-<div align="center">
-    
-![product backlog](https://user-images.githubusercontent.com/69374340/172057734-320d9e43-19e9-409a-8f2d-7d159a1aaa9a.png)
-![sprint backlog](https://user-images.githubusercontent.com/69374340/172057787-dcc1ecce-1b08-464b-850e-7019dc050056.png)
-</div>
 
-Regras de Negócio
-- 
-
-Requisitos funcionais 
-- Conteúdo da apresentação   
-- Relatórios 
-- Experiência do usuário ao oferecer algo mais (UX)
-
-  
-Requisitos não funcionais
-- Usar tecnologias especifícas/apoio/tecnológicas
-- Metodologias ágil
-- Power BI / Jira / Canvas
-  
-## Sprint 1. Concepção
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-
-## Sprint 2. Desenvolvimento do Projeto
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
-      
-## Sprint 3 . Implementação
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-      
-## Sprint 4. Operacionalização
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
 
 
 # Competências desenvolvidas
