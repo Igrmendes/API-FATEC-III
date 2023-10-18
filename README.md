@@ -57,14 +57,13 @@ Assim, tem-se por objetivo específico:
 
 
 
-# Cronograma das Sprints
-
-
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
 
 # Backlog do produto
 
-
+<div id="top"></div>
+<p align="center">
+      <img src="https://i.imgur.com/kOwvOzf.png"100%" height="100%">
+<p align="center">
 
 # Competências desenvolvidas
 
