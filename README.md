@@ -52,7 +52,7 @@ Assim, tem-se por objetivo específico:
 
 ## Tecnologias Utilizadas
 
-<img width="296" alt="Captura de tela 2023-09-26 213058" src="https://github.com/Igrmendes/API-FATEC-III/assets/113563935/1ea10df3-17ed-456f-b8c2-d42a45d0d439">
+<img width="296" alt="Captura de tela 2023-09-26 213058" src="https://i.imgur.com/I4BlCTb.png">
 
 
 
@@ -68,7 +68,7 @@ Assim, tem-se por objetivo específico:
 
 # EQUIPE
 
-![SCRUM TEAM](https://github.com/Igrmendes/API-FATEC-III/assets/113563935/016d2fde-e8c5-4ab1-bb64-1a220f80f116)
+![SCRUM TEAM](https://i.imgur.com/OqwMyQP.png)
 
 
 
