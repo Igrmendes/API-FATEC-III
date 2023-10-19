@@ -52,7 +52,12 @@ Assim, tem-se por objetivo específico:
 
 ## Tecnologias Utilizadas
 
-<img width="296" alt="Captura de tela 2023-09-26 213058" src="https://i.imgur.com/I4BlCTb.png">
+
+
+<div id="top"></div>
+<p align="center">
+      <img src="https://i.imgur.com/Gek22Kg.png" width="100%" height="100%">
+<p align="center">
 
 
 
