@@ -64,10 +64,7 @@ Assim, tem-se por objetivo específico:
 # DASHBOARD 
 
 
-
 Uploading Protótipo dashboard - Power BI -.mp4…
-
-
 
 
 # Backlog do produto
