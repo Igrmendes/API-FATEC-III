@@ -64,7 +64,11 @@ Assim, tem-se por objetivo específico:
 # DASHBOARD 
 
 
-Uploading Protótipo dashboard - Power BI -.mp4…
+
+
+https://github.com/Igrmendes/API-FATEC-III/assets/113563935/809f5426-c573-4113-ac00-88200694cbdb
+
+
 
 
 # Backlog do produto
