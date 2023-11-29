@@ -80,8 +80,9 @@ https://github.com/Igrmendes/API-FATEC-III/assets/113563935/809f5426-c573-4113-a
 
 
 # EQUIPE
+![EQUIPE](https://github.com/Igrmendes/API-FATEC-III/assets/113563935/3a52291e-c04f-4c94-a167-940084f268d3)
 
-![SCRUM TEAM](https://i.imgur.com/OqwMyQP.png)
+
 
 
 
