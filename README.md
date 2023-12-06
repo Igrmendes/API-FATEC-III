@@ -48,6 +48,9 @@ Assim, tem-se por objetivo específico:
 <p>• Desenvolver uma interface gráfica que permita o cliente consultar, filtrar e agrupar as informações tratadas da base de dados do governo
 <p>• Avaliar os parâmetros logísticos planejados pela empresa e confrontar com os parâmetros reais obtidos pela base de dados.
 
+Com a finalização do projeto, pode-se visualizar a conclusão neste modelo de [solução](metodo_transporte_API.ipynb) .
+
+
 
 
 ## Tecnologias Utilizadas
