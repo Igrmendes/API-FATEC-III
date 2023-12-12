@@ -69,7 +69,11 @@ Com a finalização do projeto, pode-se visualizar a conclusão neste modelo de 
 
 
 
-https://github.com/Igrmendes/API-FATEC-III/assets/113563935/809f5426-c573-4113-ac00-88200694cbdb
+
+https://github.com/Igrmendes/API-FATEC-III/assets/113563935/3764d67e-5e87-4aa3-bce1-352f44feeea8
+
+
+
 
 
 
